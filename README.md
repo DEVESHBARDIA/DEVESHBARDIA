@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/whitedevil2059" target="blank"><img src="https://img.shields.io/twitter/follow/whitedevil2059?logo=twitter&style=for-the-badge" alt="whitedevil2059" /></a> </p>
 
-- 🔭 I’m currently working on [Diabetes Detection](https://colab.research.google.com/drive/1ntK24USmieL9hoJrQUbdyEoH4cOhp7Pm)
+- 🔭 I’m currently working on Project-G
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEVESHBARDIA?tab=repositories](https://github.com/DEVESHBARDIA?tab=repositories)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **devesssh@gmail.com**
 
-- ⚡ Fun fact **I will break through it someday**
+- ⚡ Fun fact **I will break through it very soon...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
