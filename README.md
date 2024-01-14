@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm DEVESH</h1>
-<h3 align="center">A passionate frontend developer and enthusiast for learning new things</h3>
+<h3 align="center">Director & Founder of SPIREA ARCH PVT. LTD.</h3>
 <img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&f=1&nofb=1&ipt=fc7540478e82cffe93948762cf3ad36e301d0f4bcfa8621219eeb81b91719e0d&ipo=images">
 
 <p align="left"> <a href="https://twitter.com/whitedevil2059" target="blank"><img src="https://img.shields.io/twitter/follow/whitedevil2059?logo=twitter&style=for-the-badge" alt="whitedevil2059" /></a> </p>
 
-- 🔭 I’m currently working on Project-G
+- 🔭 I’m currently working on Capturing the world
 
 - 🌱 I’m currently learning **Fullstack Development**
 
